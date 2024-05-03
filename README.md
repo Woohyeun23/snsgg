@@ -69,32 +69,117 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 기술 밎 개발 환경
 ### [ Stack ]
 
-<a href="https://ibb.co/0fLK8n0"><img src="https://i.ibb.co/HryC1Kc/Untitled.png" alt="Untitled" border="0"></a>
+<a href="https://ibb.co/Ss99055"><img src="https://i.ibb.co/BzSSjcc/Untitled-2.png" alt="Untitled-2" border="0"></a>
 
 ### [사용 기술]
   +front-end : react
   
   +back-end : 제공된 API 사용
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  
+```
+public
+  └─ index.js
+src
+  ├─admin
+    ├─activities
+      └─Activities.js
+    ├─master
+      └─InquriyBox.js
+    ├─settings
+      ├─modal
+        ├─BlockListModal.js
+        ├─DeactivateModal.js
+        └─DeleteUser.js
+      ├─Account.js
+      ├─Help.js
+      ├─Privacy.js
+      └─Settings.js
+    ├─index.js
+    ├─KAKAO_AUTH_URL
+    ├─kakaoLoginButton.js
+    ├─MasterPage.js
+    ├─message.js
+    ├─Recoverypage.js
+    ├─SendMail.js
+    ├─SignUpForm.js
+    ├─SocialSignUpForm.js
+    └─Verifypage.js
+  ├─css
+    ├─font
+      ├─NotoSansKR-Regular.ttf
+    ├─Activities.css
+    ├─App.css
+    ├─editProfile.css
+    ├─FollowListModal.css
+    ├─inquiryBox.css
+    ├─loginForm.css
+    ├─Masterpage.css
+    ├─Navbar.css
+    ├─Post.css
+    ├─RepostModalcss
+    ├─searchpage.css
+    ├─Settings.css
+    ├─signupForm.css
+    ├─Temporary_page.css
+    ├─Userpage.css
+    ├─utill.css
+    └─WritePost.css
+  ├─img
+  ├─main
+    ├─Post_part
+      └─Contents_box.js
+    ├─Search_part
+    ├─UserPage_part
+      ├─post_shape
+        ├─Comment_shapte.js
+        └─Post_shape.js
+      ├─post_utill
+        ├─CancerButton.js
+        ├─CommentButton.js
+        ├─EditProfile.js
+        ├─ImageUpload.js
+        ├─LikeButton.js
+        ├─RepostButton.js
+        └─TimeFormatter.js
+      ├─index.js
+      ├─PostPart.js
+      ├─replyPart.js
+      └─RepostPart.js
+    ├─Write_part
+    ├─BlockModal.js
+    ├─FollowButton.js
+    ├─FollowListModal.js
+    ├─index.js
+    ├─Inquiry.js
+    ├─MainPost.js
+    ├─Navbar.js
+    ├─Postpage.js
+    ├─QuotePost.js
+    ├─RepostModal.js
+    ├─SearchPage.js
+    ├─UserMenuModal.js
+    ├─Userpage.js
+    ├─WriteComment.js
+    └─WritePostjs
+  ├─models
+    ├─activities.js
+    ├─Inquiry.js
+    ├─member.js
+    ├─post.js
+    └─user.js
+  ├─monggodb
+    └─server.js
+  ├─utils
+    ├─navigate.js
+    ├─regex.js
+    ├─svgs.js
+    ├─useModal.js
+    └─utill.js
+  ├─app.js
+  ├─index.js
+  ├─reportWebVitals.js
+  ├─setupProxy
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+uploads
+```
