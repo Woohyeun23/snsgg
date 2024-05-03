@@ -38,6 +38,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## 기술 밎 개발 환경
 
+### [ Stack ]
+
+<a href="https://ibb.co/0fLK8n0"><img src="https://i.ibb.co/HryC1Kc/Untitled.png" alt="Untitled" border="0"></a>
 
 ### [사용 기술]
   +front-end : react
