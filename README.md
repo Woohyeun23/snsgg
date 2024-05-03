@@ -36,8 +36,37 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 | <a href="https://imgbb.com/"><img src="https://i.ibb.co/Zm9yn2x/image.jpg" alt="image" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/analysis-of-poem-jerusalem-by-william-blake'></a><br />  | <a href="https://imgbb.com/"><img src="https://i.ibb.co/Zm9yn2x/image.jpg" alt="image" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/analysis-of-poem-jerusalem-by-william-blake'></a><br />  | <a href="https://imgbb.com/"><img src="https://i.ibb.co/Zm9yn2x/image.jpg" alt="image" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/analysis-of-poem-jerusalem-by-william-blake'></a><br />  | <a href="https://imgbb.com/"><img src="https://i.ibb.co/Zm9yn2x/image.jpg" alt="image" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/analysis-of-poem-jerusalem-by-william-blake'></a><br />  |
 | contacts  | contacts  | contacts  | contacts  |
 
-## 기술 밎 개발 환경
+## 역할 분담
+### 곽대준
++ 기초적인 리엑트 환경 개발
++ 로그인 기능 협업 프로젝트 내 몽고db 서버 연결
++ 기본적인 댓글 스케마 제작
 
+### 권우현
++  메인페이지 및 유저 페이지
++ 글쓰기 기능, 이미지 업로드에 관해 프로필 변경 기능 구현
++ 포스트 상세페이지 및 협업해 댓글 기능 구현
++ 포스트 내 반응형 좋아요 버튼 구현
+
+### 심훈
++ 기초적인 리엑트 환경 개발
++ 프로젝트 내 몽고db 서버 연결
++ 전체적인 검색 기능 및 페이지 제작
++ 프로젝트 통괄 관리
++ 카카오 로그인 api 연결
+
+### 최은빈
++ 일반 회원/카카오 api 회원 가입, 로그인, 탈퇴 구현
++ 이메일 링크 발송과 암호를 통한 사용자 인증 구현
++ 계정 비활성화, 복구 기능 구현
++ 웹소켓 연결과 설정, 관련 기능(알림 발송 등) 개발
++ 사용자 프로필 비공개 구현
++ 유저 팔로우/언팔로우, 차단 기능 구현
++ 게시글 리포스트, 인용 기능 구현과 메인/유저페이지 반영
++ 설정 페이지 작업
++ 팔로우, 요청, 좋아요 등 알림 기능 작업
+
+## 기술 밎 개발 환경
 ### [ Stack ]
 
 <a href="https://ibb.co/0fLK8n0"><img src="https://i.ibb.co/HryC1Kc/Untitled.png" alt="Untitled" border="0"></a>
