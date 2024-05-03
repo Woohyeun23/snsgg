@@ -76,6 +76,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   
   +back-end : 제공된 API 사용
 
+## 폴더 구조
   
 ```
 public
