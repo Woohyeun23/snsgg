@@ -72,9 +72,37 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <a href="https://ibb.co/Ss99055"><img src="https://i.ibb.co/BzSSjcc/Untitled-2.png" alt="Untitled-2" border="0"></a>
 
 ### [사용 기술]
-  +front-end : react
+  + front-end : react
   
-  +back-end : 제공된 API 사용
+  + back-end : 제공된 API 사용
+
+## 주요 기능
+### 로그인 / 회원가입
+
+  + 로그인
+  + 일반 회원가입 및 카카오 연동 회원가입
+  + 유효성 검사
+  
+### 피드 
+
+  + 무한 스크롤
+  + 최근 본 게시글 내용 및 스크롤 위치 유지
+  
+### 게시글
+
+  + 게시글 작성 및 삭제
+  + 이미지 업로드
+  + 댓글 작정 및 삭제
+    
+### 검색 
+
+  +반응형 유저 검색
+  
+### 프로필
+  + 로그아웃
+  + 팔로우 / 팔로잉
+  + 프로필 수정
+
 
 ## 폴더 구조
 + uploads/ : 이미지
