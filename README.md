@@ -76,6 +76,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   
   + back-end : 제공된 API 사용
 
+### [작업 문화]
+
+#### Discord
+
++ 저희는 디스코드를 이용하여 회의 및 협업을 적극적으로 진행했습니다. 전체 회의나 서로간의 상의가 필요한 경우에는 디스코드의 라이브 기능을 활용하여 화면 공유와 음성 통화를 통해 원활한 소통을 이뤄냈습니다. 이를 통해 팀원들 간에 실시간으로 의견을 나누고 문제를 해결할 수 있었습니다.
+
 ## 주요 기능
 ### 로그인 / 회원가입
 
