@@ -82,12 +82,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 + 저희는 디스코드를 이용하여 회의 및 협업을 적극적으로 진행했습니다. 전체 회의나 서로간의 상의가 필요한 경우에는 디스코드의 라이브 기능을 활용하여 화면 공유와 음성 통화를 통해 원활한 소통을 이뤄냈습니다. 이를 통해 팀원들 간에 실시간으로 의견을 나누고 문제를 해결할 수 있었습니다.
 
++또한 커밋을 대신해 각 파트별로 나뉜 체널에 대해서 완성된 부분을 남겨 각 파트에 대해 시각적으로 보기 쉽게 만들었습니다
 | 디스코드   |
 |------------|
 | [![디스코드](https://github.com/Woohyeun23/snsgg/blob/main/sns%EB%8B%A4%EB%9D%BD%EB%B0%A9/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%EB%AA%A9%EC%B0%A8.PNG)](https://github.com/Woohyeun23/snsgg/blob/main/sns%EB%8B%A4%EB%9D%BD%EB%B0%A9/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%EB%AA%A9%EC%B0%A8.PNG) | 이게 나온다고? |
 
+#### dropbox
 
++또한 실무 투입시 깃허브를 사용하지 않을 때를 가정해서 다른 데이터 서버를 사용하기로 했습니다. 그러던 중, 모두에게 제일 익숙한 드롭박스를 이용하기로 했습니다
 
++드롭박스는 코드를 작성하고 저장하는 즉시 백업이 가능한 상태를 만든다는 점에서 깃보다 더 정확하고 세밀한 확인이 가능하단 점입니다. 
+| 게시판 부분 | 회원 부분 |
+|-------|------|
+| [![게시판부분](https://github.com/Woohyeun23/snsgg/blob/main/sns%EB%8B%A4%EB%9D%BD%EB%B0%A9/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%ED%8C%8C%ED%8A%B8%20.PNG)] |[![회원부분](https://github.com/Woohyeun23/snsgg/blob/main/sns%EB%8B%A4%EB%9D%BD%EB%B0%A9/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%ED%9A%8C%EC%9B%90%20%ED%8C%8C%ED%8A%B8.PNG)]|
 
 ## 주요 기능
 ### 로그인 / 회원가입
