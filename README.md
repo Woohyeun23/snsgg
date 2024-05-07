@@ -96,7 +96,7 @@
   
 | 게시판 부분 | 회원 부분 |
 |-------|------|
-| [![게시판부분](https://github.com/Woohyeun23/snsgg/blob/main/sns%EB%8B%A4%EB%9D%BD%EB%B0%A9/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%ED%8C%8C%ED%8A%B8%20.PNG) |[![회원부분](https://github.com/Woohyeun23/snsgg/blob/main/sns%EB%8B%A4%EB%9D%BD%EB%B0%A9/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%ED%9A%8C%EC%9B%90%20%ED%8C%8C%ED%8A%B8.PNG)|
+| ![게시판부분](https://github.com/Woohyeun23/snsgg/blob/main/sns%EB%8B%A4%EB%9D%BD%EB%B0%A9/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%ED%8C%8C%ED%8A%B8.PNG) |![회원부분](https://github.com/Woohyeun23/snsgg/blob/main/sns%EB%8B%A4%EB%9D%BD%EB%B0%A9/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C%20%ED%9A%8C%EC%9B%90%20%ED%8C%8C%ED%8A%B8.PNG)|
 
 ## 주요 기능
 ### 로그인 / 회원가입
